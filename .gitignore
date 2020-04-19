@@ -1,0 +1,11 @@
+.terraform/
+build/
+.gradle/
+PACKAGE_VARS
+.idea/
+classes/
+*.sc
+*.iml
+out/
+.project
+target/
